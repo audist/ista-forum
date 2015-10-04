@@ -1,0 +1,3 @@
+/cache/*.ini
+/cache/*.php
+/cache/Smarty/complie/*.php
