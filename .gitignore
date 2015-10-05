@@ -1,3 +1,4 @@
 /cache/*.ini
 /cache/*.php
-/cache/Smarty/complie/*.php
+/cache/Smarty/compile/*.php
+.DS_Store
