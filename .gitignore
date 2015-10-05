@@ -2,3 +2,4 @@
 /cache/*.php
 /cache/Smarty/compile/*.php
 .DS_Store
+*/.DS_Store
